@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 eevevevev fgfgfgfg
+=======
+eevevevev
+>>>>>>> a606a06 (gggg)
